@@ -16,7 +16,7 @@ Atualmente estou em busca do meu primeiro emprego na programação, sempre busca
 <a href="https://www.linkedin.com/in/thiago-loiola-546810130/" >
 <img src="https://skillicons.dev/icons?i=linkedin"> 
 
-## Estatisticas :chart_with_upwards_trend:
+## Estatisticas :bar_chart:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoLoiola&layout=donut-vertical)](https://github.com/ThiagoLoiola/github-readme-stats) 
 <br>
