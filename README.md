@@ -1,6 +1,6 @@
 ## Olá, meu nome é Thiago :rocket:
 
-Atualmente estou em busca do meu primeiro emprego na programação, sempre em busca de melhorar e aprender cada vez mais, atualmente estou aprendendo e desenvolvendo projetos com:
+Atualmente estou em busca do meu primeiro emprego na programação, sempre buscando melhorar e aprender cada vez mais, atualmente estou aprendendo e desenvolvendo projetos com:
 <br>
 <br>
 
