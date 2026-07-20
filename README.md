@@ -4,7 +4,7 @@ Atualmente estou em busca do meu primeiro emprego na programação, sempre busca
 <br>
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs)](https://skillicons.dev)
 
 
 ## Connect with me :
